@@ -2,7 +2,7 @@ module.exports = {
   title: 'Agricultural supply chain management',
   tagline: 'centralized demand and decentralized supply',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/Agricultural-supply-chain-management',
   favicon: 'img/favicon.ico',
   organizationName: 'Socialist-SriLanka', // Usually your GitHub org/user name.
   projectName: 'Agricultural-supply-chain-management', // Usually your repo name.
